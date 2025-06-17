@@ -25,4 +25,4 @@ jobs:
       run: javac -d out $(find src/main/java -name "*.java")
 
     - name: Run Main class
-      run: java -cp out com.mycompany.Final_poe.Final_poe
+      run: java -cp out com.mycompany.Final_poe.Message
