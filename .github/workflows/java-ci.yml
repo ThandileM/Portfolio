@@ -22,7 +22,7 @@ jobs:
         distribution: 'temurin'
 
     - name: Compile Java files
-      run: javac src/*/**.java
+      run: javac -d out src/**/*.java
 
     - name: Run Main class
-      run: java -cp src com.mycompany.Final_poe
+      run: java -cp out com.mycompany.Final_poe
