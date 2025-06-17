@@ -22,7 +22,7 @@ jobs:
         distribution: 'temurin'
 
     - name: Compile Java files
-      run: javac *.java
+      run: javac src/*/**.java
 
     - name: Run Main class
       run: java Final_poe
