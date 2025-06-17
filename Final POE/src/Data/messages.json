@@ -1,0 +1,28 @@
+[
+  {
+    "recipient": "+27834557896",
+    "messageText": "Did you get the cake?",
+    "flag": "sent"
+  },
+  {
+    "recipient": "+27838884567",
+    "messageText": "Where are you? You are late! I have asked you to be on time.",
+    "flag": "stored"
+  },
+  
+  {
+    "recipient": "+27838884567",
+    "messageText": "yohoooo, I am at your gate.",
+    "flag": "Disregard"
+  },
+  
+  {
+    "recipient": "+27838884567",
+    "messageText": "Ok, I am leaving without you.",
+    "flag": "stored"
+  }
+]
+
+
+
+
