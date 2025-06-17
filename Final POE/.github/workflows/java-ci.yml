@@ -25,4 +25,4 @@ jobs:
       run: javac -d out src/main/java/com/mycompany/Final_poe/*.java
 
     - name: Run Main class
-      run: java -cp out com.mycompany.Final_poe/Fonal_poe
+      run: java -cp out com.mycompany.Final_poe.Final_poe
