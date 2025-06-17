@@ -25,4 +25,4 @@ jobs:
       run: javac src/*/**.java
 
     - name: Run Main class
-      run: java Final_poe
+      run: java -cp src com.mycompany.Final_poe
